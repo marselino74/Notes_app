@@ -1,8 +1,8 @@
-part of 'Notes_state.dart';
+part of 'Add_Note_State.dart';
 
 abstract class AddNotesState {}
 
-class AddNoteIntial extends AddNotesState {}
+class NotesIntial extends AddNotesState {}
 
 class AddNoteLoading extends AddNotesState {}
 
